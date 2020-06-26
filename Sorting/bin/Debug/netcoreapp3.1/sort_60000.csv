@@ -1,0 +1,5 @@
+Algorithm;Elements;Time
+Insert Sort;60000;7541,5036
+Selection Sort;60000;5493,3259
+Heap Sort;60000;22,6572
+Coctail sort;60000;9698,5736
